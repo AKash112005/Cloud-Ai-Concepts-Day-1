@@ -18,9 +18,9 @@
 
   7. Contributing
 
-1. 🚀 Overview
+🚀 Overview 
 
-    This repository contains my Day 1 learning progress in Cloud & AI fundamentals using Python, specifically focusing on:
+  This repository contains my Day 1 learning progress in Cloud & AI fundamentals using Python, specifically focusing on:
 
   Object-Oriented Programming (OOP)
 
