@@ -20,84 +20,84 @@
 
 1. 🚀 Overview
 
-This repository contains my Day 1 learning progress in Cloud & AI fundamentals using Python, specifically focusing on:
+    This repository contains my Day 1 learning progress in Cloud & AI fundamentals using Python, specifically focusing on:
 
-Object-Oriented Programming (OOP)
+  Object-Oriented Programming (OOP)
 
-NumPy basics and array operations
+  NumPy basics and array operations
 
-Hands-on implementation using Google Colab
+  Hands-on implementation using Google Colab
 
-The goal of this repo is to practice core concepts, write clean code, and document my learning journey.
+  The goal of this repo is to practice core concepts, write clean code, and document my learning journey.
 
 2. 📘 Notebook Included
 
-🔹 OOPS.ipynb
+  🔹 OOPS.ipynb
 
-A complete Python notebook demonstrating:
+  A complete Python notebook demonstrating:
 
 What is OOP?
 
-Classes & objects
+  Classes & objects
 
-Constructors (__init__)
+  Constructors (__init__)
 
-Inheritance
+  Inheritance
 
-Encapsulation
+  Encapsulation
 
-Polymorphism
+  Polymorphism
 
-Real-world examples in Python
+  Real-world examples in Python
 
-Small mini-exercises to practice
+  Small mini-exercises to practice
 
 3. 🧠 Topics Covered
 ✅ Object-Oriented Programming Concepts
 
-Class & Object Creation
+  Class & Object Creation
 
-Instance & Class Variables
+  Instance & Class Variables
 
-Method Types
+  Method Types
 
-Inheritance (Single, Multi-level, Multiple)
+  Inheritance (Single, Multi-level, Multiple)
 
-Method Overloading & Overriding
+  Method Overloading & Overriding
 
-Encapsulation & Abstraction
+  Encapsulation & Abstraction
 
 4.🧮 NumPy Concepts 
 
-Array creation
+  Array creation
 
-Indexing and slicing
+  Indexing and slicing
 
-Array math operations
+  Array math operations
 
-Reshaping and broadcasting
+  Reshaping and broadcasting
 
-Random module usage
+  Random module usage
 
 4.🛠 Technologies Used
 
-Python 3
+  Python 3
 
-NumPy
+  NumPy
 
-Google Colab
+  Google Colab
 
-Jupyter Notebook
+  Jupyter Notebook
 
 5.▶️ How to Run
 
-Open the notebook on GitHub
+  Open the notebook on GitHub
 
-Click "Open in Colab"
+  Click "Open in Colab"
 
-Run each cell step-by-step
+  Run each cell step-by-step
 
-Modify examples to learn deeper
+  Modify examples to learn deeper
 
 6.🎯 Purpose of This Repo
 
